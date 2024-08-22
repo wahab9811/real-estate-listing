@@ -20,7 +20,7 @@ To set up this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/yourusername/real-estate-listing.git
+git clone https://github.com/wahab9811/real-estate-listing.git
 Navigate to the project directory:
 
 cd real-estate-listing
